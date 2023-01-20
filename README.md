@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Oluwabunmi Meshach
-- 👀 I’m interested in Data Analytics & Data Science internship
-- 🌱 I’m currently learning SQL,Tableau
+- 👀 I’m interested in Data Science internship
+- 🌱 I’m currently learning Python,SQL,Power -BI
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me via email -bumzeal19@gmail.com
+- 📫 How to reach me via email - bumzeal19@gmail.com
 
 <!---
 Bumzeal/Bumzeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
