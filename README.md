@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bumzeal&label=Profile%20views&color=0e75b6&style=flat" alt="bumzeal" /> </p>
 <p align="left"> <a href="https://twitter.com/bumzeal" target="blank"><img src="https://img.shields.io/twitter/follow/bumzeal?logo=twitter&style=for-the-badge" alt="bumzeal" /></a> </p>
 
-- 🔭 I’m currently working on **Sales Dashboard**
+- 🔭 I’m currently working on **Sales Analysis Dashboard**
 
 - 🌱 I’m currently learning **python,Hadoop,Apache spark**
 
-- 👯 I’m looking to collaborate on **Onye**
+- 👯 I’m looking to collaborate on **Data Modelling Task**
 
 - 🤝 I’m looking for help with **Data Engineering**
 
