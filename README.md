@@ -1,5 +1,4 @@
-
-<p align="center"><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvg8JNIldRRf54WWjvWiIkNaqhP84WaLUE4-jqD7903BAht6nN5FjxEJUUCO9eow-P8zc&amp;usqp=CAU" class="rg_i Q4LuWd" jsname="Q4LuWd" width="500" height="200"  alt="A-Team Innovation Awards - A Team" data-noaft="1"></p>
+![Neon Yellow and Black Simple Modern Motivational Quote LinkedIn Article Cover Image](https://user-images.githubusercontent.com/78567274/236345501-aa5b523b-027d-4770-ad90-4fe21c0da3a9.png)
 <h1 align="center">Hi 👋, I'm Oluwabunmi Meshach</h1>
 <h3 align="center">A passionate Data Analyst and Data Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bumzeal&label=Profile%20views&color=0e75b6&style=flat" alt="bumzeal" /> </p>
