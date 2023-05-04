@@ -1,6 +1,6 @@
 ![Neon Yellow and Black Simple Modern Motivational Quote LinkedIn Article Cover Image](https://user-images.githubusercontent.com/78567274/236345501-aa5b523b-027d-4770-ad90-4fe21c0da3a9.png)
 <h1 align="center">Hi 👋, I'm Oluwabunmi Meshach</h1>
-<h3 align="center">A passionate Data Analyst and Data Engineer</h3>
+<h3 align="center">A passionate Data Analyst and Data Engineer Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bumzeal&label=Profile%20views&color=0e75b6&style=flat" alt="bumzeal" /> </p>
 <p align="left"> <a href="https://twitter.com/bumzeal" target="blank"><img src="https://img.shields.io/twitter/follow/bumzeal?logo=twitter&style=for-the-badge" alt="bumzeal" /></a> </p>
 
